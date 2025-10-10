@@ -1,4 +1,7 @@
 # Pokémon Ga-Ole OOP Java
+- A Java Object-Oriental Programming based Pokémon Ga-Ole-inspired game featuring command-line gameplay with a GUI battle system, focusing on modular design, encapsulation, and inheritance.
+
+## Project Overview
 Pokémon Ga-Ole (Java OOP) is a game simulation project inspired by the Pokémon Ga-Ole arcade series.
 The project demonstrates Object-Oriented Programming principles in Java, combining a command-line interface for gameplay with a Graphical User Interface (GUI) for battles.
 
