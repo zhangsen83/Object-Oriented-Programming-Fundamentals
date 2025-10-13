@@ -23,3 +23,13 @@ The project demonstrates Object-Oriented Programming principles in Java, combini
 - Integrated GUI elements into a CLI-based game.
 - Improved debugging, testing, and version control skills.
 
+## Screenshots
+![Guide Page 1 Preview](1.png)
+![Guide Page 1 Preview](2.png)
+![Guide Page 1 Preview](3.png)
+![Guide Page 1 Preview](4.png)
+![Guide Page 1 Preview](5.png)
+![Guide Page 1 Preview](6.png)
+![Guide Page 1 Preview](7.png)
+![Guide Page 1 Preview](8.png)
+
